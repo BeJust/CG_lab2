@@ -1,0 +1,10 @@
+C:\Users\Сергей\source\repos\Lb2\Lb2\bin\Debug\Lb2.exe.config
+C:\Users\Сергей\source\repos\Lb2\Lb2\bin\Debug\Lb2.exe
+C:\Users\Сергей\source\repos\Lb2\Lb2\bin\Debug\Lb2.pdb
+C:\Users\Сергей\source\repos\Lb2\Lb2\obj\Debug\Lb2.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\source\repos\Lb2\Lb2\obj\Debug\Lb2.MainWindow.resources
+C:\Users\Сергей\source\repos\Lb2\Lb2\obj\Debug\Lb2.Properties.Resources.resources
+C:\Users\Сергей\source\repos\Lb2\Lb2\obj\Debug\Lb2.csproj.GenerateResource.Cache
+C:\Users\Сергей\source\repos\Lb2\Lb2\obj\Debug\Lb2.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\Lb2\Lb2\obj\Debug\Lb2.exe
+C:\Users\Сергей\source\repos\Lb2\Lb2\obj\Debug\Lb2.pdb
